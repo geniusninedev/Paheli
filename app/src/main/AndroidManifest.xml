@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nineinfosys.andriod.paheli">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/paheliyaicon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.nineinfosys.andriod.paheli.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.nineinfosys.andriod.paheli.Paheli.PaheliIndex"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/title_activity_paheli_index"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.nineinfosys.andriod.paheli.BrainPuzzels.BrainPuzzelIndex"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Brain Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.BrainPuzzels.BrainPuzzelSolve"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Brain Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.KidsPuzzel.KidsPuzzelsIndex"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Kids Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.KidsPuzzel.KidsPuzzelSolve"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Kids Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.SimplePuzzel.SimplePuzzelsIndex"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Simple Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.SimplePuzzel.SimplePuzzelsSolve"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Simple Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.FunnyPuzzel.FunnyPuzzelsIndex"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Funny Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.FunnyPuzzel.FunnyPuzzelsSolve"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+
+            android:label="Funny Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.FaltuPuzzel.FaltuPuzzelsIndex"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Faltu Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.FaltuPuzzel.FaltuPuzzelsSolve"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Faltu Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.NumberPuzzel.NumberPuzzelsIndex"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Number Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.NumberPuzzel.NumberPuzzelsSolve"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Number Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.BollywoodPuzzel.BollywoodPuzzelsIndex"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Bollywood Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.BollywoodPuzzel.BollywoodPuzzelsSolve"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="Guess The Name Of Movie?"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.WhatsAppPuzzel.WhatsAppPuzzelsIndex"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="WhatsApp Puzzel"/>
+        <activity android:name="com.nineinfosys.andriod.paheli.WhatsAppPuzzel.WhatsAppPuzzelsSolve"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="WhatsApp Puzzel"></activity>
+
+        <activity android:name=".Game.TicTacToe"
+            android:configChanges="orientation|screenSize|keyboardHidden"></activity>
+        <activity android:name=".Game.Game"
+            android:configChanges="orientation|screenSize|keyboardHidden"></activity>
+        <activity android:name=".Game.StatsView"
+            android:configChanges="orientation|screenSize|keyboardHidden"></activity>
+    </application>
+
+</manifest>

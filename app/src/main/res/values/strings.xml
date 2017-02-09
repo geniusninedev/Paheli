@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">Paheli</string>
+    <string name="title_activity_paheli_index">PaheliIndex</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="brain">
+        <item>Meine 20 Ko kaat diya,...</item>
+        <item>Chiti ke do age Chiti,...</item>
+        <item>1 Aadmi ne 1 Ungli se 6 logo ko 6 second mein...</item>
+        <item>Ek table par plate mein do Apple hai....</item>
+        <item>3 Murgiyan 3 din me 3 ande deti hai,....</item>
+        <item>एक पेंन 5 रु में बेचेगे तो 3 Rs. profit,...</item>
+        <item>Toys ka bhav....</item>
+        <item>Chagan aur Magan dono Dost hai.... </item>
+        <item>एक औरत अपने पति का नाम बताती है...</item>
+        <item>1) “Shahad” se jyada meetha ……</item>
+        <item>1 Aurat 1935 mein paida hui,....</item>
+        <item>Bimar nahi hu mein,....</item>
+        <item>1 kamre mein चार सो aadmi the.....</item>
+        <item>Ladki ke paas aisi kon si cheez hoti hai....</item>
+        <item>Gay (Cow) Dudh deti hai,....</item>
+        <item>Beshak na ho Hath mein Hath,...</item>
+        <item>Char Driver Ek Savari...</item>
+        <item>Bina Bulaye Doctor aaye,....</item>
+        <item>Shadi se pahele Dulhan ka Baap....</item>
+        <item>Kya aap is Swal ko Solve kar sakte ho....</item>
+    </string-array>
+
+    <string-array name="kids">
+        <item>Kali hai par Kaag Nhai...</item>
+        <item> Bujho Bhaiya Ek Paheli...</item>
+        <item> Aisa Kon si hai...</item>
+        <item>Somvaar ka din tha 2 chor bank....</item>
+        <item>Lal Ghoda Ruka rhe....</item>
+        <item>Kali Kali Maa...</item>
+        <item>Mai Maru Mai Katu Tum kyo Rote ho....</item>
+        <item> Bimar nahi rehti mai.... </item>
+        <item>Agar Naak pe chad jau...</item>
+        <item>Dunia bhar ki karta sair...</item>
+        <item>Kala Ghoda....</item>
+        <item>Aise kon se chej hai....</item>
+        <item>Dhoop dekh mai aa jau.....</item>
+        <item>Ek din, Ek vakil aur uske ....</item>
+        <item>Ladki ke paas wo konsi cheez hai jo uske paas....</item>
+        <item>Khridne Par Kala...</item>
+        <item> Ek Raja ki anokhi Rani</item>
+        <item>Ek Phool hai Kale rang ka...</item>
+        <item> Ek Pita ne apne bache ko gift dete hue kha...</item>
+        <item>Dhup me aane par jalne lagti hai....</item>
+        <item>प्यार करूँ तो घर चमका दूँ वार करूँ तो ले लूँ जान...</item>
+        <item>कपड़े उतरवाएँ पंखा चलवाए कहती ठंडा पीने को...</item>
+        <item>जो जाकर न वापस आये जाता भी वह नजर न आये...</item>
+        <item>गर्मी में जिससे घबराते जाड़े में हम उसको खाते....</item>
+        <item>धूप लगे पैदा हो जाये छाँह लगे मर जाये...</item>
+        <item>Bikhari Nhi Par Bikh Mangataa Hai</item>
+        <item>Padhney Mein Likhney Mein...</item>
+        <item>Hari Thi Man Bhari Thi..</item>
+        <item>Chhota Sa Siphai...</item>
+        <item>Do Kisan Ladten Jaaye...</item>
+        <item>Aisi Kon Si Cheez Hei Jishey...</item>
+        <item>Ek Thaal Motiyon Se Bhara....</item>
+        <item>Do Sunder Ladkey....</item>
+    </string-array>
+
+    <string-array name="simple">
+        <item> चलती हूँ पर पैर नहीं ,...</item>
+        <item>मंदिर मे हूँ तो हर कोई शीश झुकाये ,...</item>
+        <item>दिन मे सोती...</item>
+        <item>मेरी पीठ पर तुम बैठो,....</item>
+        <item>गिन नहीं सकता कोई ,....</item>
+        <item>एक पेंन 5 रु में बेचेगे तो 3 Rs. profit,...</item>
+        <item>Aise kon se chej hai....</item>
+        <item> Ek din, Ek vakil aur uske.... </item>
+        <item>एक औरत अपने पति का नाम बताती है...</item>
+        <item>Ek Phool hai Kale rang ka ……</item>
+        <item>Dhup me aane par jalne lagti hai....</item>
+        <item>पीली पोखर पीले अंडे....</item>
+        <item>ऐसा शब्द लिखकर बनाये .....</item>
+        <item>एक पहेली सदा नवेली |....</item>
+        <item>काली काली माँ |....</item>
+        <item>छोटी सी छोकरी |...</item>
+        <item>पानी है पर बाहर नहीं |...</item>
+        <item>आंखें हैं पर अंधी हूँ |,....</item>
+        <item>दो अक्षर का मेरा नाम |....</item>
+        <item>Andhe Ko Kya Dikhayi Deta Hai?....</item>
+        <item>Jitna Jyada Hota Hai Utna....</item>
+        <item>Kahan Par Friday Thursday....</item>
+    </string-array>
+
+    <string-array name="funny">
+        <item>When will a horse,...</item>
+        <item>When do you find a lot of,...</item>
+        <item>How can u double ur...</item>
+        <item>Take the letters  ERGRO,....</item>
+        <item>अगर दम है तो इस सवाल का जवाब देकर,....</item>
+        <item>Which is the most shocking,...</item>
+        <item>Name two things u can....</item>
+        <item>How many great men were.... </item>
+        <item>If your clock strikes 13...</item>
+        <item>If you had three apples and ……</item>
+        <item>Prasad ne Kumble se Pepsi....</item>
+        <item>Ek Madrasi ne kaha, Main....</item>
+        <item>Jackie Chan ki saas ka.....</item>
+        <item>chalo ab batao.....</item>
+        <item>Ek aur muaka de hi dete hain....</item>
+        <item>Where was the first...</item>
+        <item>What comes down but...</item>
+        <item>Which is the hardest key ,....</item>
+        <item>Where do fish keep...</item>
+        <item>Why Pakistani cricket team ....</item>
+    </string-array>
+
+    <string-array name="faltu">
+        <item>RAM SITA HAI...</item>
+        <item>SITA RAM HAI TO SITA ...</item>
+        <item> What will! u call a...</item>
+        <item>Kalidas ka ek bhai....</item>
+        <item>Luv and Kush are going to a....</item>
+        <item>Now Kush also jumps inside....</item>
+        <item>What do you call a...</item>
+        <item>Murgi anda deti hai and cow.... </item>
+        <item>एक हाथी तालाब के पानी में गया,....</item>
+        <item>एक औरत अपने पति का नाम बताती है ....</item>
+        <item>I am made of 5 letters,....</item>
+        <item>This is a smart test,....</item>
+        <item>Tawe par pada popcorn kyun.....</item>
+        <item>What is the opposite ....</item>
+        <item>What is the opposite of....</item>
+        <item>What is the opposite of ...</item>
+    </string-array>
+
+    <string-array name="number">
+        <item>What is the next prime number...</item>
+        <item>The perimeter of a circle is ...</item>
+        <item>65 – 43 = ?...</item>
+        <item>True or false? A convex ....</item>
+        <item>What does the square ....</item>
+        <item>True or false? Pi can be ....</item>
+        <item>What comes after a million,....</item>
+        <item>52 divided by 4 equals ....</item>
+        <item>What is the bigger number,....</item>
+        <item>True or false? Opposite angles... </item>
+        <item>87 + 56 = ?.... </item>
+        <item>How many sides does a ... </item>
+        <item>True or false? -2 is.... </item>
+        <item>What is the next number in.... </item>
+        <item>7 x 9 = ?... </item>
+        <item>True or false? In an isosceles ...... </item>
+        <item>In statistics, the middle.....  </item>
+        <item>What does 3 squared .... </item>
+        <item>True or false? -4 is a ... </item>
+        <item>5 to the power of 0 equals....</item>
+    </string-array>
+
+
+    <string-array name="bollywood">
+        <item>HDDCS.....</item>
+        <item>BMB.....</item>
+        <item>HADMRH.....</item>
+        <item>MPK.....</item>
+        <item>JDMGRH.....</item>
+        <item>KYPH.....</item>
+        <item>PDHH.....</item>
+        <item>HSSH.....</item>
+        <item>BTG.....</item>
+        <item>TBT.....</item>
+        <item>PBDHH.....</item>
+        <item>JPKHH.....</item>
+        <item>YPD.....</item>
+        <item>KKKG.....</item>
+        <item>DAAPP.....</item>
+        <item>APKGK.....</item>
+        <item>YJHD.....</item>
+        <item>PPNH.....</item>
+        <item>ZNMD.....</item>
+        <item>SOS.....</item>
+        <item>DCH.....</item>
+        <item> BAH.....</item>
+        <item>BMCM.....</item>
+        <item> MPKDH.....</item>
+        <item> RKAB.....</item>
+    </string-array>
+
+    <string-array name="whatsapp">
+        <item> Tell me any 1000 words that.....</item>
+        <item> A boy was driving a car,.....</item>
+        <item> Bobby’s mother had three.....</item>
+        <item>Which Is The Only Country.....</item>
+        <item>Answers to 4 cheezon ka naam hindi .....</item>
+        <item>KYPH.....</item>
+        <item>PDHH.....</item>
+        <item>HSSH.....</item>
+        <item>BTG.....</item>
+        <item>Prasad ne Kumble se Pepsi.....</item>
+        <item> Ek Madrasi ne kaha, Main.....</item>
+        <item>Jackie Chan ki saas ka.....</item>
+        <item>What is the next number in.....</item>
+        <item>7 x 9 = ?.....</item>
+        <item>True or false? In an isosceles.....</item>
+        <item>In statistics, the middle.....</item>
+        <item> Andhe Ko Kya Dikhayi Deta .....</item>
+        <item>Jitna Jyada Hota Hai Utna.....</item>
+        <item> Kahan Par Friday Thursday.....</item>
+        <item>Hari Thi Man Bhari Thi.....</item>
+        <item>Chhota Sa Siphai.....</item>
+        <item> Do Kisan Ladten Jaaye.....</item>
+        <item>Aisi Kon Si Cheez Hei Jishey.....</item>
+
+    </string-array>
+
+</resources>
